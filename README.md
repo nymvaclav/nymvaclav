@@ -1,6 +1,6 @@
 ## Hey!
 
-I am a studen studying networking and I develop websites as a hobby.
+I am a student studying networking and I develop websites as a hobby.
 
 <details>
   <summary><b>More about me</b></summary>
