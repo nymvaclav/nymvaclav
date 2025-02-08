@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hey!
 
-<!--
-**nymvaclav/nymvaclav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student studying networking and coding. I develop websites as a hobby. Currently, I am working for a non-profit organisation.
 
-Here are some ideas to get you started:
+<details>
+  <summary><b>More about me</b></summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - **Languages:** Python, HTML, CSS, Learning JavaScript and Kotlin
+  - **Frameworks:** Django
+  - **Databases:** PostgreSQL, SQLite
+  - **IDE:** Visual Studio Code
+</details>
+
+<details>
+ <summary><b>Github Pages</b></summary>
+
+  [nymvaclav.github.io](https://nymvaclav.github.io/)
+</details>
+
+Most of my repos are private, but I might release them in the future :)
